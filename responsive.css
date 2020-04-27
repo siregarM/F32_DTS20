@@ -4,7 +4,7 @@
 		display: none;
 	}
 	.menu-icon {
-		display: block;
+		display: block !important;
 	}
 
 	.course {
@@ -29,7 +29,7 @@
 		display: none;
 	}
 	.menu-icon {
-		display: block;
+		display: block !important;
 	}
 
 	.btn {
