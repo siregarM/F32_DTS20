@@ -1,0 +1,51 @@
+/* untuk Tablet */
+@media all and (max-width: 1000px) {
+	.header-right {
+		display: none;
+	}
+	.menu-icon {
+		display: block;
+	}
+
+	.course {
+		width: 40%;
+		margin-bottom: 50px;
+	}
+
+	.team {
+		width: 100%;
+	}
+
+	footer {
+    	text-align: center;
+ 	}
+
+}
+
+/* untuk Smartphone */
+@media all and (max-width: 670px) {
+	
+	.header-right {
+		display: none;
+	}
+	.menu-icon {
+		display: block;
+	}
+
+	.btn {
+		width: 100%;
+	}
+
+	.course {
+		width: 100%;
+	}
+
+	.team {
+		width: 100%;
+	}
+
+	footer {
+    	text-align: center;
+  	}
+
+}
